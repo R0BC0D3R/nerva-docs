@@ -54,14 +54,12 @@ An easy way to buy XNV with BTC, by **Nithronium** The code is available [on Git
 
 <!--Reference links -->
 [nerva-nodemap-link]: https://map.nerva.one/
-[nerva-discord-link]: https://discord.gg/jsdbEns
+[nerva-discord-link]: https://discord.gg/ufysfvcFwe
 
 [nerva-tools-link]: https://nerva.tools/
 [freeboard-link]: https://freeboard.io/board/EV5-se
-[forkmaps-link]: https://forkmaps.com/#/benchmarks
 [m4crypto-link]: https://m4crypto.com/
 
-[ukminer-shop-link]: https://nervashop.com/
 [nithronium-exchange-link]: https://github.com/nithronium/Nerva.Exchange
 [yas3-calculator-link]: https://gitlab.com/yas3/nerva-calculator
 [yas3-faucet-link]: https://gitlab.com/yas3/nerva-faucet
